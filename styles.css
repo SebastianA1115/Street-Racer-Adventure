@@ -1,0 +1,53 @@
+body {
+    background: url("https://i.pinimg.com/originals/29/e9/84/29e9848ee33949ba789f4b9c8e63a101.jpg");
+    background-size: cover;
+    height: 615px;
+}
+
+.button {
+    
+    position: center;
+    height: 7%;
+    width: 25%;
+    font-size: 20px;
+    color: #5800a1;
+    background: #ff5900;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    padding:5px;
+    border:solid 5px #FEE12B;
+}
+
+.startA {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botones {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 30%;
+    width: 55%;
+}
+
+h3 {
+    font-family: 'DotGothic16', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color:#FEE12B;
+}
